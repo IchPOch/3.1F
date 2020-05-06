@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\3.1F\3.1F\bin\Debug\3.1F.exe.config
+C:\Users\Aleks\source\repos\3.1F\3.1F\bin\Debug\3.1F.exe
+C:\Users\Aleks\source\repos\3.1F\3.1F\bin\Debug\3.1F.pdb
+C:\Users\Aleks\source\repos\3.1F\3.1F\obj\Debug\3.1F.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\3.1F\3.1F\obj\Debug\_3._1F.Form1.resources
+C:\Users\Aleks\source\repos\3.1F\3.1F\obj\Debug\_3._1F.Properties.Resources.resources
+C:\Users\Aleks\source\repos\3.1F\3.1F\obj\Debug\3.1F.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\3.1F\3.1F\obj\Debug\3.1F.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\3.1F\3.1F\obj\Debug\3.1F.exe
+C:\Users\Aleks\source\repos\3.1F\3.1F\obj\Debug\3.1F.pdb
